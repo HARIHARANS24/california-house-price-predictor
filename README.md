@@ -80,7 +80,7 @@ This project aims to provide an easy-to-use web app where users can input housin
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/california-house-price-predictor.git
+git clone https://github.com/HARIHARANS24/california-house-price-predictor.git
 cd california-house-price-predictor
 
 # 2. (Optional) Create and activate a virtual environment
@@ -92,3 +92,6 @@ source venv/bin/activate
 
 # 3. Install required Python packages
 pip install -r requirements.txt
+
+# 4. Run the Streamlit app
+streamlit run app.py
