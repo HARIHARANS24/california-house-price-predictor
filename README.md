@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Author
 
-- HARIHARANS24
+- HARIHARAN S
 
 ## 🙏 Acknowledgments
 
