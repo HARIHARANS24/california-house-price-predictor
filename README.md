@@ -1,6 +1,6 @@
 # California House Price Predictor
 
-A machine learning web application that predicts median house prices in California using XGBoost and Streamlit.
+A machine learning web application that predicts median house prices in California using XGBoost and Streamlit. 
 
 ## 🏠 Project Overview 
 
