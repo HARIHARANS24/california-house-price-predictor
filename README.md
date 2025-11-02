@@ -3,7 +3,7 @@
 A machine learning web application that predicts median house prices in California using XGBoost and Streamlit. 
 
 ## 🏠 Project Overview 
- 
+  
 This project is an interactive web application that predicts median house prices in California based on various housing features. It uses the California Housing dataset from scikit-learn and implements an XGBoost Regressor model for predictions.
 
 ## 📁 Project Structure
