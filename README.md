@@ -10,7 +10,7 @@ This project is an interactive web application that predicts median house prices
  
 ``` 
 california-house-price-predictor/
-├── app.py                           # Streamlit web application 
+├── app.py                           # Streamlit web application  
 ├── california_house_price_prediction.py  # Core prediction model 
 ├── California_House_Price_Prediction.ipynb  # Jupyter notebook for model development 
 └── requirements.txt                 # Project dependencies
