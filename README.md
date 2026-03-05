@@ -9,11 +9,14 @@ This project is an interactive web application that predicts median house prices
 ## 📁 Project Structure
  
 ``` 
-california-house-price-predictor/
-├── app.py                           # Streamlit web application  
-├── california_house_price_prediction.py  # Core prediction model 
-├── California_House_Price_Prediction.ipynb  # Jupyter notebook for model development 
-└── requirements.txt                 # Project dependencies
+Directory structure:
+└── hariharans24-california-house-price-predictor/
+    ├── README.md
+    ├── app.py
+    ├── California_House_Price_Prediction.ipynb
+    ├── california_house_price_prediction.py
+    ├── LICENSE
+    └── requirements.txt
 ```
 
 ## 🛠️ Features
